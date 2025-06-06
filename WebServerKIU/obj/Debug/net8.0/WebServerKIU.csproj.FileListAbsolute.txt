@@ -1,0 +1,14 @@
+/Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/bin/Debug/net8.0/WebServerKIU
+/Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/bin/Debug/net8.0/WebServerKIU.deps.json
+/Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/bin/Debug/net8.0/WebServerKIU.runtimeconfig.json
+/Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/bin/Debug/net8.0/WebServerKIU.dll
+/Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/bin/Debug/net8.0/WebServerKIU.pdb
+/Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/obj/Debug/net8.0/WebServerKIU.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/obj/Debug/net8.0/WebServerKIU.AssemblyInfoInputs.cache
+/Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/obj/Debug/net8.0/WebServerKIU.AssemblyInfo.cs
+/Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/obj/Debug/net8.0/WebServerKIU.csproj.CoreCompileInputs.cache
+/Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/obj/Debug/net8.0/WebServerKIU.dll
+/Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/obj/Debug/net8.0/refint/WebServerKIU.dll
+/Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/obj/Debug/net8.0/WebServerKIU.pdb
+/Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/obj/Debug/net8.0/WebServerKIU.genruntimeconfig.cache
+/Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/obj/Debug/net8.0/ref/WebServerKIU.dll
