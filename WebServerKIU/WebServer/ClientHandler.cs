@@ -4,7 +4,7 @@ using WebServerKIU.Http;
 using WebServerKIU.WebServer;
 
 
-namespace WebServerApp.Server;
+namespace WebServerKIU.WebServer;
 
 public class ClientHandler
 {
@@ -35,7 +35,7 @@ public class ClientHandler
 
     
 // validation to be added
-        _handler.Handle(context);
+       await _handler.Handle(context);
         context.Response.WriteTo(stream);
         _client.Close();
     }

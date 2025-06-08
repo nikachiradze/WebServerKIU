@@ -2,7 +2,7 @@ using System.Net;
 using System.Net.Sockets;
 using WebServerKIU.WebServer;
 
-namespace WebServerApp.Server;
+namespace WebServerKIU.WebServer;
 
 public class WebServer
 {
@@ -49,7 +49,7 @@ public class WebServer
             }
             catch (Exception ex)
             {
-                // Optionally add some delay or shutdown logic if needed
+                //  
             }
         }
     }

@@ -44,7 +44,6 @@ public class FileHandler
         }
         else
         {
-            // _logger.LogWarning("File not found: {FilePath}", path);
             context.Response.StatusCode = "404 Not Found";
             context.Response.ContentType = "text/html";
             context.Response.Content = LoadErrorPage();
