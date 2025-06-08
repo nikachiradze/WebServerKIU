@@ -12,3 +12,4 @@
 /Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/obj/Debug/net8.0/WebServerKIU.pdb
 /Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/obj/Debug/net8.0/WebServerKIU.genruntimeconfig.cache
 /Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/obj/Debug/net8.0/ref/WebServerKIU.dll
+/Users/nikolozchiradze/RiderProjects/WebServerKIU/WebServerKIU/obj/Debug/net8.0/WebServerKIU.sourcelink.json
